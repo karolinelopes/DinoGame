@@ -7,4 +7,4 @@ Jogo feito no curso da Digital Innovation One para criação do jogo do Dinossau
 - CSS
 - JavaScript
 
-[dinogame.png][https://github.com/karolinelopes/DinoGame/blob/master/dinogame.jpg]
+![Imagem do Jogo](https://github.com/karolinelopes/DinoGame/blob/master/dinogame.jpg)
